@@ -25,6 +25,7 @@
                 }
             }
             Console.WriteLine($"\nCorrect answer was {number}");
+            //Just getting started
         }
     }
 }
